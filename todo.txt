@@ -1,0 +1,2 @@
+Revisit trigonometry to 1. Figure out angle between two points 2. Move a point along an angle
+Revisit 2D Vectors

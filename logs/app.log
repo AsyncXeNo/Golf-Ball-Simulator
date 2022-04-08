@@ -1,0 +1,8 @@
+2022-04-09 00:06:51,470 - __main__ - DEBUG - 
+TODO
+Revisit trigonometry to 1. Figure out angle between two points 2. Move a point along an angle
+Revisit 2D Vectors
+ (main.py:28)
+2022-04-09 00:06:51,470 - __main__ - INFO - hi! (main.py:30)
+2022-04-09 00:06:51,470 - game - INFO - starting application! (application.py:20)
+2022-04-09 00:06:51,530 - graphics - INFO - hello from conn_pygame_graphics! (conn_pygame_graphics.py:15)
