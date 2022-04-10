@@ -3,11 +3,11 @@
 from __future__ import annotations
 
 import getopt, sys
-import typing
 
 from typing import TYPE_CHECKING
-from game.application import Application
+
 from logging_module.custom_logging import get_logger
+from game.application import Application
 
 if TYPE_CHECKING:
     import logging
